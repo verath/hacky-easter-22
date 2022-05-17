@@ -14,6 +14,7 @@ I ended up with 1450 points, placing at 271 out of 905 players
 * [10_Bucket_Egg](./10_Bucket_Egg.md)
 * [11_FireAlert](./11_FireAlert.md)
 * [12_CopyProtectionPioneers](./12_CopyProtectionPioneers.md)
+* [14_Snoopy](./14_Snoopy/README.md)
 * [18_JupiterOne](./18_JupiterOne.md)
 * [19_GhostInAShell3](./19_GhostInAShell3.md)
 * [20_ConeyIslandHackers](./20_ConeyIslandHackers.md)
